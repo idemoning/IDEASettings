@@ -1,0 +1,9 @@
+<templateSet group="idemon">
+  <template name="/**" value="/**&#10; * TODO:&#10; *&#10; * @author idemon&#10; * @since $DATE$ $TIME$&#10; */" description="类注释/**+Tab" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
