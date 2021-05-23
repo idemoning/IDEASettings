@@ -187,6 +187,10 @@
                     <option name="columnType" value="boolean" />
                     <option name="javaType" value="java.lang.Boolean" />
                   </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="tinyint(1) unsigned" />
+                    <option name="javaType" value="java.lang.Object" />
+                  </TypeMapper>
                 </list>
               </option>
               <option name="name" value="Default" />
@@ -251,12 +255,12 @@
                     <option name="javaType" value="java.lang.Boolean" />
                   </TypeMapper>
                   <TypeMapper>
-                    <option name="columnType" value="tinyint(1)" />
+                    <option name="columnType" value="tinyint(1) unsigned" />
                     <option name="javaType" value="java.lang.Boolean" />
                   </TypeMapper>
                   <TypeMapper>
                     <option name="columnType" value="bigint(\(\d+\))? unsigned" />
-                    <option name="javaType" value="java.lang.Long" />
+                    <option name="javaType" value="java.lang.Object" />
                   </TypeMapper>
                 </list>
               </option>
