@@ -278,6 +278,10 @@
                     <option name="columnType" value="int(\(\d+\))? unsigned" />
                     <option name="javaType" value="java.lang.Long" />
                   </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="tinyint(2) unsigned" />
+                    <option name="javaType" value="java.lang.Integer" />
+                  </TypeMapper>
                 </list>
               </option>
               <option name="name" value="idemon" />
