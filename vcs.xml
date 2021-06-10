@@ -10,24 +10,8 @@
           <option name="url" value="git@gitee.com:idemon/app-base.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://60.28.102.133:8443/summary/?r=hifleet.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://60.28.102.133:8443/r/hifleet.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://60.28.102.133:8443/summary/hifleet.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://damon@60.28.102.133:29418/hifleet.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\lenovo\workspace\workspace-idea" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/workspace-idea" />
   </component>
 </application>
