@@ -10,9 +10,13 @@
           <option name="url" value="git@gitee.com:idemon/app-base.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:tinkers_dev/sc-backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/workspace-idea" />
+    <option name="cloneParentDir" value="C:\Users\lenovo\workspace\workspace-idea" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
