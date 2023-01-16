@@ -340,6 +340,11 @@
                     <option name="columnType" value="tinyint(\(\d+\))? unsigned" />
                     <option name="javaType" value="java.lang.Integer" />
                   </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="double(6,2) unsigned" />
+                    <option name="javaType" value="java.math.BigDecimal" />
+                    <option name="matchType" value="ORDINARY" />
+                  </TypeMapper>
                 </list>
               </option>
               <option name="name" value="idemon" />
