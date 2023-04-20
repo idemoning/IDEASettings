@@ -345,6 +345,11 @@
                     <option name="javaType" value="java.math.BigDecimal" />
                     <option name="matchType" value="ORDINARY" />
                   </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="smallint" />
+                    <option name="javaType" value="java.lang.Integer" />
+                    <option name="matchType" value="ORDINARY" />
+                  </TypeMapper>
                 </list>
               </option>
               <option name="name" value="idemon" />
