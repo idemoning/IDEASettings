@@ -30,6 +30,10 @@
           <option name="url" value="git@gitee.com:chinaseven/pda-shell.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:chinaseven/back-end.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\workspace-idea" />
