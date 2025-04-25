@@ -5,5 +5,19 @@
         <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToWordCapitalizedOrCamelCaseAction" />
       </UniversalActionModel>
     </option>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="collatorLanguageTag" value="zh_CN" />
+      </SortSettings>
+    </option>
+    <option name="sortTokensModel">
+      <SortTokensModel>
+        <option name="sortSettings">
+          <SortSettings>
+            <option name="collatorLanguageTag" value="zh_CN" />
+          </SortSettings>
+        </option>
+      </SortTokensModel>
+    </option>
   </component>
 </application>
