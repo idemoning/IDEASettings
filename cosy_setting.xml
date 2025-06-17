@@ -2,6 +2,11 @@
   <component name="CosySettings">
     <option name="dedicatedDomainUrl" value="" />
     <option name="localStoragePath" value="C:\Users\jacky\.lingma" />
+    <option name="nesConfig">
+      <LingmaNesConfig>
+        <option name="enabled" value="true" />
+      </LingmaNesConfig>
+    </option>
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
