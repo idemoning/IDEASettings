@@ -1,5 +1,10 @@
 <application>
   <component name="CosySettings">
+    <option name="chatModelSelected">
+      <map>
+        <entry key="D:/workspace/workspace-idea/uc-back-end-inline" value="default" />
+      </map>
+    </option>
     <option name="dedicatedDomainUrl" value="" />
     <option name="localStoragePath" value="C:\Users\jacky\.lingma" />
     <option name="nesConfig">
